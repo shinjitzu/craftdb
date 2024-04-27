@@ -1,7 +1,0 @@
-{
-  "item": {
-    "name": "Welcome!",
-    "texture": "link:raw.githubusercontent.com/malcolmriley/unused-textures/master/blocks/crop_gourd_flower.png",
-    "model": "ref:item"
-  }
-}
