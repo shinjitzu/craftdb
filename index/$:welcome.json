@@ -1,14 +1,16 @@
 {
-  "item": {
-    "name": "Welcome!",
-    "texture": "link:raw.githubusercontent.com/malcolmriley/unused-textures/master/blocks/crop_gourd_flower.png",
-    "model": "ref:item"
-  },
-
+  "name": "Welcome!",
   "scene": [
     "size 5,5,5",
     "set 0,0,0 dirt",
     "marker",
     "wait 20"
-  ]
+  ],
+  
+  "item": {
+    "textures": {
+      "item": "link:raw.githubusercontent.com/malcolmriley/unused-textures/master/blocks/crop_gourd_flower.png"
+    },
+    "model": "ref:item"
+  }
 }
