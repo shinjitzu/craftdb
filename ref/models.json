@@ -1,7 +1,0 @@
-{
-  "$:welcome": "link:raw.githubusercontent.com/shinjitzu/craftdb/misc/$:welcome.json",
-  "minecraft:item/generated": "link:raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/models/item/generated.json",
-  
-  "minecraft:item/dirt": "link:raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/models/item/dirt.json",
-  "minecraft:block/dirt": "link:raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.5/assets/minecraft/models/block/dirt.json"
-}
