@@ -6,5 +6,11 @@
       "0": "link:raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/dirt.png"
     },
     "model": "ref:block"
+  },
+  "block": {
+    "textures": {
+      "0": "link:raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/dirt.png"
+    },
+    "model": "ref:block"
   }
 }
