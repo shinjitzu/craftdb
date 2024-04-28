@@ -10,12 +10,13 @@
     "set -1,1,0 minecraft:dirt",
     "set -1,2,0 minecraft:dirt",
     "set 0,0,0 minecraft:dirt",
-    "set 1,0,0 minecraft:dirt",
-    "set 1,1,0 minecraft:dirt",
-    "set 1,2,0 minecraft:dirt",
     
     "marker",
-    "wait 20"
+    "wait 20",
+    
+    "set 1,0,0 minecraft:dirt",
+    "set 1,1,0 minecraft:dirt",
+    "set 1,2,0 minecraft:dirt"
   ],
   
   "item": "https://raw.githubusercontent.com/malcolmriley/unused-textures/master/blocks/crop_gourd_flower.png",
