@@ -2,5 +2,5 @@
   "name": "Dirt",
   
   "item": "minecraft:item/dirt",
-  "block": "minecraft:dirt"
+  "block": "minecraft:block/dirt"
 }
