@@ -1,16 +1,6 @@
 {
   "name": "Dirt",
   
-  "item": {
-    "textures": {
-      "all": "link:raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/dirt.png"
-    },
-    "model": "ref:block"
-  },
-  "block": {
-    "textures": {
-      "all": "link:raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/dirt.png"
-    },
-    "model": "ref:block"
-  }
+  "item": "minecraft:item/dirt",
+  "block": "minecraft:dirt"
 }
