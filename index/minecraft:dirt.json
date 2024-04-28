@@ -1,6 +1,15 @@
 {
   "name": "Dirt",
+  "lore": null,
   
-  "item": "minecraft:item/dirt",
-  "block": "minecraft:block/dirt"
+  "tags": ["Building"],
+  "scene": null,
+  
+  "item": "<- block",
+  "block": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/dirt"
+    }
+  }
 }
