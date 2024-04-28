@@ -6,11 +6,13 @@
   "scene": [
     "size 5",
 
-    "set 1,0,0 minecraft:dirt",
     "set -1,0,0 minecraft:dirt",
+    "set -1,1,0 minecraft:dirt",
+    "set -1,2,0 minecraft:dirt",
     "set 0,0,0 minecraft:dirt",
-    "set 0,1,0 minecraft:dirt",
-    "set 0,2,0 minecraft:dirt",
+    "set 1,0,0 minecraft:dirt",
+    "set 1,1,0 minecraft:dirt",
+    "set 1,2,0 minecraft:dirt",
     
     "marker",
     "wait 20"
