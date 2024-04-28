@@ -6,13 +6,16 @@
   "scene": [
     "size 5",
     "wait 40",
-    
+
+    "marker First one, here we go",
     "set -1,0,0 minecraft:dirt",
     "wait 5",
     "set -1,1,0 minecraft:dirt",
     "wait 5",
     "set -1,2,0 minecraft:dirt",
     "wait 5",
+
+    "marker Building the second one",
     "set 1,0,0 minecraft:dirt",
     "wait 5",
     "set 1,1,0 minecraft:dirt",
