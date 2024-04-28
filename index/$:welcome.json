@@ -1,11 +1,15 @@
 {
   "name": "Welcome!",
+  "lore": "CraftDB is a work-in-progress, so feel free to contribute!",
+  
+  "tags": ["CraftDB guide"],
   "scene": [
     "size 5,5,5",
     "set 0,0,0 minecraft:dirt",
     "marker",
     "wait 20"
   ],
-
-  "item": "$:welcome"
+  
+  "item": "https://raw.githubusercontent.com/malcolmriley/unused-textures/master/blocks/crop_gourd_flower.png",
+  "block": null
 }
