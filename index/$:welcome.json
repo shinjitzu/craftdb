@@ -5,20 +5,20 @@
   "tags": ["CraftDB guide"],
   "scene": [
     "size 5",
-
     "set -1,0,0 minecraft:dirt",
     "wait 5",
     "set -1,1,0 minecraft:dirt",
     "wait 5",
     "set -1,2,0 minecraft:dirt",
     "wait 5",
-    "set 0,0,0 minecraft:dirt",
-    "wait 5",    
+
+    "size 3",
     "set 1,0,0 minecraft:dirt",
     "wait 5",
     "set 1,1,0 minecraft:dirt",
     "wait 5",
-    "set 1,2,0 minecraft:dirt"
+    "set 1,2,0 minecraft:dirt",
+    "wait 5"
   ],
   
   "item": "https://raw.githubusercontent.com/malcolmriley/unused-textures/master/blocks/crop_gourd_flower.png",
