@@ -2,7 +2,7 @@
   "name": "Welcome!",
   "scene": [
     "size 5,5,5",
-    "set 0,0,0 dirt",
+    "set 0,0,0 minecraft:dirt",
     "marker",
     "wait 20"
   ],
