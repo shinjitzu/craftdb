@@ -5,11 +5,11 @@
   "tags": ["Building"],
   "scene": null,
   
-  "item": "<- block",
+  "item": "-> block",
   "block": {
-    "parent": "minecraft:block/cube_all",
+    "preset": ["block", "blockAll", "blockDisplay"],
     "textures": {
-      "all": "minecraft:block/dirt"
+      "all": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/dirt.png"
     }
   }
 }
