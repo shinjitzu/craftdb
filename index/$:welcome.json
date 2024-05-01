@@ -4,25 +4,25 @@
   
   "tags": ["CraftDB guide"],
   "scene": [
-    {"type": "size", "target": 5},
+    { "type": "size", "target": 5 },
 
-    {"type": "wait", "ticks": 40},
-    {"type": "marker", "name": "First one, here we go"},
-    {"type":"set", "pos": [-1,0,0], "id": "minecraft:dirt"},
-    {"type": "wait", "ticks": 5},
-    {"type":"set", "pos": [-1,1,0], "id": "minecraft:dirt"},
-    {"type": "wait", "ticks": 5},
-    {"type":"set", "pos": [-1,2,0], "id": "minecraft:dirt"},
+    { "type": "wait", "ticks": 40 },
+    { "type": "marker", "name": "First one, here we go" },
+    { "type": "set", "pos": [-1, 0, 0], "id": "minecraft:dirt" },
+    { "type": "wait", "ticks": 5 },
+    { "type": "set", "pos": [-1, 1, 0], "id": "minecraft:dirt" },
+    { "type": "wait", "ticks": 5 },
+    { "type": "set", "pos": [-1, 2, 0], "id": "minecraft:dirt" },
 
-    {"type": "wait", "ticks": 40},
-    {"type": "marker", "name": "Building the second one"},
-    {"type":"set", "pos": [1,0,0 ], "id":"inecraft:dirt"},
-    {"type": "wait", "ticks": 5},
-    {"type":"set", "pos": [1,1,0 ], "id":"inecraft:dirt"},
-    {"type": "wait", "ticks": 5},
-    {"type":"set", "pos": [1,2,0 ], "id":"inecraft:dirt"},
-    
-    {"type": "wait", "ticks": 40}
+    { "type": "wait", "ticks": 40 },
+    { "type": "marker", "name": "Building the second one" },
+    { "type": "set", "pos": [1, 0, 0], "id": "inecraft:dirt" },
+    { "type": "wait", "ticks": 5 },
+    { "type": "set", "pos": [1, 1, 0], "id": "inecraft:dirt" },
+    { "type": "wait", "ticks": 5 },
+    { "type": "set", "pos": [1, 2, 0], "id": "inecraft:dirt" },
+
+    { "type": "wait", "ticks": 40 }
   ],
   
   "item": "https://raw.githubusercontent.com/malcolmriley/unused-textures/master/blocks/crop_gourd_flower.png",
